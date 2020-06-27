@@ -20,8 +20,13 @@ For ImageNet runs, pre-trained full precision weights can be downloaded from: ht
 If you use our code for research, please cite our paper:
 
 @article{shayer2017learning,
-  title={Learning discrete weights using the local reparameterization trick},
-  author={Shayer, Oran and Levi, Dan and Fetaya, Ethan},
-  journal={arXiv preprint arXiv:1710.07739},
-  year={2017}
+
+title={Learning discrete weights using the local reparameterization trick},
+
+author={Shayer, Oran and Levi, Dan and Fetaya, Ethan},
+
+journal={arXiv preprint arXiv:1710.07739},
+
+year={2017}
+
 }
