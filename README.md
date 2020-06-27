@@ -8,6 +8,7 @@ Authors: Oran Shayer, Dan Levi, Ethan Fetaya
 ### Prequisites
 
 tensorflow==1.x
+
 numpy==1.16.x
 
 ### Pre-trained weights
@@ -17,6 +18,7 @@ For ImageNet runs, pre-trained full precision weights can be downloaded from: ht
 ## Citation
 
 If you use our code for research, please cite our paper:
+
 @article{shayer2017learning,
   title={Learning discrete weights using the local reparameterization trick},
   author={Shayer, Oran and Levi, Dan and Fetaya, Ethan},
